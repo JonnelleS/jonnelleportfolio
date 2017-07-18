@@ -1,0 +1,13 @@
+img {
+    width: 250px;
+    height: 250px;
+}
+img {
+    border: 4px solid;
+}
+h1 { 
+    color: purple;
+}
+p {
+    color: teal;
+}
