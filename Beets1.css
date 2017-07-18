@@ -1,0 +1,40 @@
+#home{
+    height:50px;
+    width: 900px;
+    background-color: #a168f2;
+    
+
+}
+#about{
+    height: 50px;
+    width: 900px;
+    background-color: #6893f2;
+}
+#recipes{
+    height: 50px;
+    width: 900px;
+    background-color:#f2d468;
+}
+#order{
+    height:50px;
+    width: 900px;
+    background-color: #c168f2;
+}
+#contact{
+    height: 50px;
+    width:900px;
+    background-color: #68f27c;
+    float: left;
+}
+#main { 
+    height: 400px;
+    width: 900px;
+    background-color: #f44280;
+    float: right;
+    font-size: 50px;
+}
+    
+
+.myList {
+    list-style-type: none;
+}
