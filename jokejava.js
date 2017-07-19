@@ -15,7 +15,7 @@ $("#joke-3").click(function(){
 
 // Task 4: Create a click handler for joke-4 that changes the attribute src from the current image to this image --> "http://i.imgur.com/ZCIkkze.jpg"
 $("#joke-4").click(function(){ 
-    $("#jokke-4").attr("src", "http://i.imgur.com/ZCIkkze.jpg"); 
+    $("#joke-4").attr("src", "http://i.imgur.com/ZCIkkze.jpg"); 
 });
 
 
