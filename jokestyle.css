@@ -1,0 +1,16 @@
+body{
+    margin-bottom: 100px;
+}
+
+div{
+    font-size: 2em;
+}
+
+#joke-1, #joke-2, #joke-3 { 
+    color: purple;
+}
+
+button {
+    color: green; 
+   
+}
