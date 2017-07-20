@@ -5,3 +5,7 @@ $("#home").click(function() {
 $("#about").click(function() {
     $("#about").append("I love you!... I know.") ;
 });
+$("#go").click(function() {
+   var url = $("#menu1 option:selected").val();
+    window.open(url);
+});
