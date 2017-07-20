@@ -1,0 +1,52 @@
+h1 {
+
+position: absolute;
+right: 200px;
+width: 300px;
+font-size: 40px;
+ color: #000;
+ color: rgba(0,0,0,0.9);
+ 
+}
+
+h3 {
+    position: absolute;
+   left: 300px;
+   width: 300px;
+   font-size: 20px;
+   color: #000;
+   color: rgba(0,0,0,0.9);
+   text-align: center;
+}
+h1 {
+  text-align: center;  
+}
+body {
+ background-color: teal; 
+ 
+   } 
+
+p  {
+    color: white;
+}
+#js { 
+    text-align: center;
+  }
+#minions1, #minions2 { 
+    float: left;
+}
+#TOP {
+  float: right;
+}
+#LUAU { 
+ float: right;   
+}
+
+ #main, #about, #home, #link { 
+  display: inline-block;
+ -webkit-appearance: scrollbarthumb-vertical;
+  padding: 4px 6px 4px 6px ;
+  font-size: 30px;
+  cursor: context-menu;
+}
+
