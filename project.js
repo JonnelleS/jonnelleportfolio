@@ -14,10 +14,10 @@ $("#hack2").click(function() {
     $("#hack2").html("https://jonnelles.github.io/jonnelleportfolio/Hackathon2.html");
 });
 
-$("#2truths").click(function() {
-    $("#2truths").html("https://jonnelles.github.io/jonnelleportfolio/2truths.html");
+$("#quiz").click(function() {
+    $("#quiz").html("https://jonnelles.github.io/jonnelleportfolio/quiz.html");
 });
 
-$("#2truths").click(function() {
-    $("#2truths").html("https://jonnelles.github.io/jonnelleportfolio/2truths.html");
+$("#home").click(function() {
+    $("#home").html("https://jonnelles.github.io/jonnelleportfolio/project.html");
 });
