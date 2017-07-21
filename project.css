@@ -69,6 +69,8 @@ body {
     margin-left: 460px;
     float: right;
     display:block;
+    border: solid;
+    text-align: center;
 }
 #family {
    width: 350px;
