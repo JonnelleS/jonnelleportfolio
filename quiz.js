@@ -1,5 +1,7 @@
 var score = 0;
 
+$("p").html("hello there!!!!");
+
 $("#go").click(function() {
     var input= $('input[name=Q1]:checked').val();
     
